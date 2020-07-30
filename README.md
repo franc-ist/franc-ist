@@ -2,16 +2,19 @@
 
 I'm Francis, a physics student :student: at the University of Bristol. I code physics simulations :computer: in Python, and I am learning Android :iphone: development in Kotlin! A lot of my code is closed-source, but you can check out some of my public contributions below!
 
+![Francis's github stats](https://github-readme-stats.vercel.app/api?username=franc-ist&show_icons=true&count_private=true&theme=buefy)
+
 #### 👷 Check out what I'm currently working on
 
-- [franc-ist/discordyt-py](https://github.com/franc-ist/discordyt-py) - The YouTube bot for discord! (2 months ago)
-- [franc-ist/BristolLeaders](https://github.com/franc-ist/BristolLeaders) - Civ V Bristol Uni Stuff (6 months ago)
+- [franc-ist/BristolLeaders](https://github.com/franc-ist/BristolLeaders) - A little mod for Civ V that adds some of my friends into the game. (today)
+- [franc-ist/discordyt-py](https://github.com/franc-ist/discordyt-py) - A YouTube bot for Discord written in Python using discord.py! (2 months ago)
+- [franc-ist/physics-projects](https://github.com/franc-ist/physics-projects) - A collection of all my computational physics stuff. (3 months ago)
 
 #### 🌱 My latest projects
 
-- [franc-ist/BristolLeaders](https://github.com/franc-ist/BristolLeaders) - Civ V Bristol Uni Stuff
-- [franc-ist/discordyt-py](https://github.com/franc-ist/discordyt-py) - The YouTube bot for discord!
-- [franc-ist/FishyCogs](https://github.com/franc-ist/FishyCogs) - Cogs yayayay
+- [franc-ist/BristolLeaders](https://github.com/franc-ist/BristolLeaders) - A little mod for Civ V that adds some of my friends into the game.
+- [franc-ist/physics-projects](https://github.com/franc-ist/physics-projects) - A collection of all my computational physics stuff.
+- [franc-ist/discordyt-py](https://github.com/franc-ist/discordyt-py) - A YouTube bot for Discord written in Python using discord.py!
 
 #### 🔭 Latest releases I've contributed to
 
