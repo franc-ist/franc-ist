@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hey! 👋
 
-<img align="right" src="https://raw.githubusercontent.com/muesli/muesli/master/assets/termenv.png" width="260">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=franc-ist&count_private=true&show_icons=true&theme=buefy" width="260">
 
-I'm Francis, a physics student at the University of Bristol, looking to expand my coding skills. A lot of my code is closed-source, but you can check out some of my public contributions below!
+I'm Francis, a physics student :student: at the University of Bristol. I code physics simulations :atom_symbol:	in python and am learning Android :iphone: development in Kotlin! A lot of my code is closed-source, but you can check out some of my public contributions below!
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
