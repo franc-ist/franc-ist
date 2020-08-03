@@ -6,12 +6,14 @@ I'm Francis, a physics student :student: at the University of Bristol. I code ph
 
 #### 👷 Check out what I'm currently working on
 
+- [franc-ist/chaos-slack-analytics](https://github.com/franc-ist/chaos-slack-analytics) - Slack app that provides further analytics not available in the workspace dashboard, written in Python. (today)
 - [franc-ist/BristolLeaders](https://github.com/franc-ist/BristolLeaders) - A little mod for Civ V that adds some of my friends into the game. (4 days ago)
 - [franc-ist/discordyt-py](https://github.com/franc-ist/discordyt-py) - A YouTube bot for Discord written in Python using discord.py! (2 months ago)
 - [franc-ist/physics-projects](https://github.com/franc-ist/physics-projects) - A collection of all my computational physics stuff. (3 months ago)
 
 #### 🌱 My latest projects
 
+- [franc-ist/chaos-slack-analytics](https://github.com/franc-ist/chaos-slack-analytics) - Slack app that provides further analytics not available in the workspace dashboard, written in Python.
 - [franc-ist/BristolLeaders](https://github.com/franc-ist/BristolLeaders) - A little mod for Civ V that adds some of my friends into the game.
 - [franc-ist/physics-projects](https://github.com/franc-ist/physics-projects) - A collection of all my computational physics stuff.
 - [franc-ist/discordyt-py](https://github.com/franc-ist/discordyt-py) - A YouTube bot for Discord written in Python using discord.py!
