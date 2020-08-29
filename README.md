@@ -7,7 +7,7 @@ I'm Francis, a physics student :student: at the University of Bristol. I code ph
 #### 👷 Check out what I'm currently working on
 
 - [franc-ist/chaos-slack-analytics](https://github.com/franc-ist/chaos-slack-analytics) - Slack app that provides further analytics not available in the workspace dashboard, written in Python. (3 weeks ago)
-- [franc-ist/BristolLeaders](https://github.com/franc-ist/BristolLeaders) - A little mod for Civ V that adds some of my friends into the game. (4 weeks ago)
+- [franc-ist/BristolLeaders](https://github.com/franc-ist/BristolLeaders) - A little mod for Civ V that adds some of my friends into the game. (1 month ago)
 - [franc-ist/discordyt-py](https://github.com/franc-ist/discordyt-py) - A YouTube bot for Discord written in Python using discord.py! (3 months ago)
 - [franc-ist/physics-projects](https://github.com/franc-ist/physics-projects) - A collection of all my computational physics stuff. (4 months ago)
 
@@ -20,7 +20,7 @@ I'm Francis, a physics student :student: at the University of Bristol. I code ph
 
 #### 🔭 Latest releases I've contributed to
 
-- [franc-ist/BristolLeaders](https://github.com/franc-ist/BristolLeaders) ([0.12](https://github.com/franc-ist/BristolLeaders/releases/tag/0.12), 4 weeks ago) - A little mod for Civ V that adds some of my friends into the game.
+- [franc-ist/BristolLeaders](https://github.com/franc-ist/BristolLeaders) ([0.12](https://github.com/franc-ist/BristolLeaders/releases/tag/0.12), 1 month ago) - A little mod for Civ V that adds some of my friends into the game.
 
 
 #### 💬 Feedback
