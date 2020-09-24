@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-I'm Francis, a physics student :student: at the University of Bristol. I code physics simulations :computer: in Python, and I am learning Android :iphone: app development in Kotlin! A lot of my code is closed-source, but you can check out some of my public contributions below!
+I'm Francis, a physics student :student: at the University of Bristol. I code physics simulations :computer: in Python, and I am learning Kotlin and Julia! Check out some of my public contributions below!
 
 ![Francis's github stats](https://github-readme-stats.vercel.app/api?username=franc-ist&show_icons=true&count_private=true&theme=buefy)
 
@@ -26,7 +26,8 @@ If you use one of my projects, I'd love to hear from you! Don't be shy and let m
 
 #### 📫 How to reach me
 
-- Twitter: [@fr0nkle_](https://twitter.com/fr0nkle_)
+- Twitter: [@franc_ist](https://twitter.com/franc_ist)
 - LinkedIn: https://www.linkedin.com/in/francis-taylor/
+- Website: [franc.ist](https://franc.ist/)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
