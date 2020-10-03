@@ -6,10 +6,10 @@ I'm Francis, a physics student :student: at the University of Bristol. I code ph
 
 #### 👷 Check out what I'm currently working on
 
-- [franc-ist/dailyPython](https://github.com/franc-ist/dailyPython) - Daily Python challenges to improve my scientific computing skills. (4 days ago)
-- [franc-ist/DailyJulia](https://github.com/franc-ist/DailyJulia) - Daily Julia challenges to help me learn the language. (6 days ago)
+- [franc-ist/dailyPython](https://github.com/franc-ist/dailyPython) - Daily Python challenges to improve my scientific computing skills. (5 days ago)
+- [franc-ist/DailyJulia](https://github.com/franc-ist/DailyJulia) - Daily Julia challenges to help me learn the language. (1 week ago)
 - [franc-ist/franc-ist.github.io](https://github.com/franc-ist/franc-ist.github.io) - Repo for my personal landing page (2 weeks ago)
-- [franc-ist/chaos-slack-analytics](https://github.com/franc-ist/chaos-slack-analytics) - Slack app that provides further analytics not available in the workspace dashboard, written in Python. (1 month ago)
+- [franc-ist/chaos-slack-analytics](https://github.com/franc-ist/chaos-slack-analytics) - Slack app that provides further analytics not available in the workspace dashboard, written in Python. (2 months ago)
 - [franc-ist/BristolLeaders](https://github.com/franc-ist/BristolLeaders) - A little mod for Civ V that adds some of my friends into the game. (2 months ago)
 
 #### 🌱 My latest projects
