@@ -20,7 +20,6 @@ I'm Francis, a physics student :student: at the University of Bristol. I code ph
 
 #### 🔭 Latest releases I've contributed to
 
-- [franc-ist/BristolLeaders](https://github.com/franc-ist/BristolLeaders) ([0.12](https://github.com/franc-ist/BristolLeaders/releases/tag/0.12), 1 year ago) - A little mod for Civ V that adds some of my friends into the game.
 
 
 #### 💬 Feedback
