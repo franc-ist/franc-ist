@@ -6,7 +6,7 @@ I'm Francis, a physics student :student: at the University of Bristol. I code ph
 
 #### 👷 Check out what I'm currently working on
 
-- [franc-ist/franc-ist.github.io](https://github.com/franc-ist/franc-ist.github.io) - Repo for my personal landing page (4 days ago)
+- [franc-ist/franc-ist.github.io](https://github.com/franc-ist/franc-ist.github.io) - Repo for my personal landing page (5 days ago)
 
 #### 🌱 My latest projects
 
