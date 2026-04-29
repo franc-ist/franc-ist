@@ -6,7 +6,7 @@ I'm Francis. Check out some of my public contributions below!
 
 #### 👷 Check out what I'm currently working on
 
-- [franc-ist/franc-ist.github.io](https://github.com/franc-ist/franc-ist.github.io) - Repo for my personal landing page (1 week ago)
+- [franc-ist/franc-ist.github.io](https://github.com/franc-ist/franc-ist.github.io) - Repo for my personal landing page (2 weeks ago)
 - [Mudbill/ABotForPigs](https://github.com/Mudbill/ABotForPigs) - Some FG shitposting bot (11 months ago)
 
 #### 🌱 My latest projects
